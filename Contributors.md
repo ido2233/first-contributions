@@ -236,6 +236,7 @@ p3tun1a
 - [Priya Patel](https://github.com/Priyapatel-07)
 - [Shaurya Gupta](https://github.com/shauryag2002)
 - [Ilija Krstic](https://github.com/ilijakrstic)
+- [Ido Doron]
 - [NuggxtDev](https://github.com/Nuggxt)
 - [Pillonel Philippe](https://github.com/phil71x)
 - [Reuben Philip](https://github.com/rphilip2)
